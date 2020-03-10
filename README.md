@@ -4,6 +4,6 @@ Key:
 
 
 
-EM = electromagnetism
+EM = Electromagnetism 331 & 332
 
-STAT = statistics
+STAT = Statistics 351
