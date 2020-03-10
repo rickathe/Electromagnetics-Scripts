@@ -1,4 +1,6 @@
-# Various Upper-Division MATLAB scripts
+# School Scripts
+
+A collection of upper-division scripts written to help with labs and homework assignments written in Python and MATLAB.
 
 Key:
 
